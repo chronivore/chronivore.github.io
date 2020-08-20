@@ -1,0 +1,60 @@
+body {
+    background: var(--bayOfMany);
+    font-family: var(--font-one);
+    color: var( --cornFlower);
+}
+
+#navv {
+    background: var(--bayOfMany);
+    color: var( --cornFlower);
+}
+
+#chomp {
+    height:80px;
+    width: 80px;
+    border: 2px solid;
+    border-radius: 6px 6px 8px;
+}
+
+#pika {
+    height:80px;
+    width: 80px;
+    border: 2px solid;
+    border-radius: 6px 6px 8px;
+}
+
+#super {
+    height:80px;
+    width: 80px;
+    border: 2px solid;
+    border-radius: 6px 6px 8px;
+}
+
+#layout {
+    height:80px;
+    width: 80px;
+    border: 2px solid;
+    border-radius: 6px 6px 8px;
+}
+
+#port {
+    text-align: center;
+    font-size: 44px;
+}
+
+.LI-profile-badge {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.github-button {
+    margin-right: 140px;
+}
+
+.resume {
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
